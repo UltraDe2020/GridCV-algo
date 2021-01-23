@@ -1,2 +1,1 @@
-# UltraDe
-Type description
+# GridCV Search Technique
